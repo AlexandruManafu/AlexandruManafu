@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA problems in my free time.<br>💬 Let’s debate web develpment, game development and object‑oriented programming.
+🔭 I’m currently working on personal projects in my free time.<br>💬 Let’s debate web develpment and game development.
 
 
 ## 🌐 Socials:
