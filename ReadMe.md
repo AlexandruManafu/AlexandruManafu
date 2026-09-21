@@ -22,7 +22,7 @@
 
 # 📊 Other Stats:
 ![](https://github-readme-stats-lac-alpha-75.vercel.app/api?username=AlexandruManafu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-lac-alpha-75.vercel.app/api/top-langs/?username=AlexandruManafu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=none&path_lang=google-interview:JavaScript&percent_contrib=skyrim2:0.1&hide=ShaderLab)<br/>
+![](https://github-readme-stats-lac-alpha-75.vercel.app/api/top-langs/?username=AlexandruManafu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=none&path_lang=google-interview:JavaScript&percent_contrib=skyrim2:0.1&hide=ShaderLab,HTML)<br/>
 <br/>
 ![](https://github-readme-stats-lac-alpha-75.vercel.app/api/leetcode-solved)<br/>
 
